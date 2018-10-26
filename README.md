@@ -2,7 +2,7 @@
 
 # 1.BadgeButton
 
-Add Badge to a button
+Add Badge to a button.A component to add a badge to any corner of a button with custom string.
 
 # 2.GraphView
 
