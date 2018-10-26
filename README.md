@@ -1,8 +1,8 @@
 # CustomComponents
 
-# 1.BadgeImage
+# 1.BadgeButton
 
-Add Badge to a imageView
+Add Badge to a button
 
 # 2.GraphView
 
