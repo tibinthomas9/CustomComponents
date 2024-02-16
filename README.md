@@ -6,9 +6,8 @@
 
 An interactive slider view 
 
-<img src="[https://cloud.githubusercontent.com/assets/yourgif.gi](https://github.com/tibinthomas9/CustomComponents/assets/29753504/6c8ff3ef-efd4-4569-9d2d-30d0b40fc7a2)f" width="400" height="790">
+<img src="https://github.com/tibinthomas9/CustomComponents/assets/29753504/6c8ff3ef-efd4-4569-9d2d-30d0b40fc7a2" width="400" height="790">
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-02-16 at 12 42 25](https://github.com/tibinthomas9/CustomComponents/assets/29753504/6c8ff3ef-efd4-4569-9d2d-30d0b40fc7a2)
 
 
 # UIKit
