@@ -9,6 +9,18 @@ An interactive slider view
 <img src="https://github.com/tibinthomas9/CustomComponents/assets/29753504/6c8ff3ef-efd4-4569-9d2d-30d0b40fc7a2" width="400" height="790">
 
 
+# 2.SineView
+ Animatable sine wave view with customizable phase, frequency  
+ 
+# 3.OneSineWaveView
+ a sine wave view that draws up just one sine wave across entire width of view
+ 
+# 4.StickyScrollView
+ A scroll view that can stick any chid within it to top, one at a time by adding .sticky() modifier to child, new sticky view will move up the old view  
+
+
+
+
 
 # UIKit
 
