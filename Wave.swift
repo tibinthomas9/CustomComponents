@@ -190,6 +190,32 @@ struct OneSineWaveView: View {
     }
 }
 
+// customizable sine wave view can custominzer how many sine wave shouble in the view: frequency
+struct SineWave: View {
+    var frequency = 4.0
+    var body: some View {
+        GeometryReader { geometry in
+            Path { path in
+                path.move(to: CGPoint(x: 0, y: geometry.size.height / 2))
+
+                for angle in stride(from: 0, through:  360 * frequency, by: 1.0) {
+                    let pointX: Double = (Double(angle) * geometry.size.width / frequency) / 360.0
+                    // Convert Angle to Radians for sin() paramater
+                    let x = Double(angle) * Double.pi / 180
+                    let y = sin(x) * 50 // Adjust the amplitude as needed
+                    
+                    let point = CGPoint(x: pointX , y: geometry.size.height / 2 - CGFloat(y))
+                   
+//                    let point = CGPoint(x: Double(angle) , y: geometry.size.height / 2 - CGFloat(y))
+                    path.addLine(to: point)
+                }
+            }
+            .stroke(Color.blue, lineWidth: 2)
+        }
+        .frame(height: 150)
+    }
+}
+
 #Preview {
     WavePreviewView()
 }
