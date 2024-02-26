@@ -199,7 +199,7 @@ struct SineWave: View {
                 path.move(to: CGPoint(x: 0, y: geometry.size.height / 2))
 
                 for angle in stride(from: 0, through:  360 * frequency, by: 1.0) {
-                    let pointX: Double = (Double(angle) * geometry.size.width / frequency) / 360.0
+                    let pointX: Double = ((Double(angle) * geometry.size.width) / (360 * frequency))
                     // Convert Angle to Radians for sin() paramater
                     let x = Double(angle) * Double.pi / 180
                     let y = sin(x) * 50 // Adjust the amplitude as needed
