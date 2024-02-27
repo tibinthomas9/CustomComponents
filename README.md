@@ -21,7 +21,7 @@ An interactive slider view
 
  # 5.SineWave: Slider view
   Sinewave with slider knob and customizable percentage(progress), frequency, amplitude
-  <img src="[https://github.com/tibinthomas9/CustomComponents/assets/29753504/bacb3f7d-5974-46b8-806e-ea5fb8919c3d.gif](https://github.com/tibinthomas9/CustomComponents/assets/29753504/bacb3f7d-5974-46b8-806e-ea5fb8919c3d).gif" width="400" height="790">
+  <img src="[https://github.com/tibinthomas9/CustomComponents/assets/29753504/bacb3f7d-5974-46b8-806e-ea5fb8919c3d](https://github.com/tibinthomas9/CustomComponents/assets/29753504/bacb3f7d-5974-46b8-806e-ea5fb8919c3d)" width="400" height="790">
 
 
 
