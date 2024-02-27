@@ -21,7 +21,9 @@ An interactive slider view
 
  # 5.SineWave: Slider view
   Sinewave with slider knob and customizable percentage(progress), frequency, amplitude
-![SimulatorScreenRecording-iPhone15Pro-2024-02-27at11 26 11-ezgif com-video-to-gif-converter](https://github.com/tibinthomas9/CustomComponents/assets/29753504/bacb3f7d-5974-46b8-806e-ea5fb8919c3d)
+  <img src="[https://github.com/tibinthomas9/CustomComponents/assets/29753504/6c8ff3ef-efd4-4569-9d2d-30d0b40fc7a2](https://github.com/tibinthomas9/CustomComponents/assets/29753504/bacb3f7d-5974-46b8-806e-ea5fb8919c3d)" width="400" height="790">
+
+
 
 
  
