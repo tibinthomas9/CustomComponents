@@ -11,12 +11,20 @@ An interactive slider view
 
 # 2.SineView
  Animatable sine wave view with customizable phase, frequency  
+
  
 # 3.OneSineWaveView
  a sine wave view that draws up just one sine wave across entire width of view
  
 # 4.StickyScrollView
- A scroll view that can stick any chid within it to top, one at a time by adding .sticky() modifier to child, new sticky view will move up the old view  
+ A scroll view that can stick any chid within it to top, one at a time by adding .sticky() modifier to child, new sticky view will move up the old view 
+
+ # 5.SineWave: Slider view
+  Sinewave with slider knob and customizable percentage(progress), frequency, amplitude
+
+
+ 
+
 
 
 
