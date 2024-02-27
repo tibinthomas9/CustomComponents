@@ -14,13 +14,14 @@ An interactive slider view
 
  
 # 3.OneSineWaveView
- a sine wave view that draws up just one sine wave across entire width of view
+ a sine wave view that draws up just one sine wave across the entire width of the view
  
 # 4.StickyScrollView
  A scroll view that can stick any chid within it to top, one at a time by adding .sticky() modifier to child, new sticky view will move up the old view 
 
  # 5.SineWave: Slider view
   Sinewave with slider knob and customizable percentage(progress), frequency, amplitude
+![SimulatorScreenRecording-iPhone15Pro-2024-02-27at11 26 11-ezgif com-video-to-gif-converter](https://github.com/tibinthomas9/CustomComponents/assets/29753504/bacb3f7d-5974-46b8-806e-ea5fb8919c3d)
 
 
  
